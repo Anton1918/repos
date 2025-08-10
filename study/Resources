@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Галерея</title>
+</head>
+<body>
+    <div>
+    <p>Космонавтика</p>
+    <img src="/home/anton/Загрузки/1.webp" alt="Космос" width="300" height="200">
+    <a href="https://www.nasa.gov/" target="_blank">NASA</a>
+    </div>
+    
+    <div>
+    <p>Найкращий курорт України</p>
+    <img src="/home/anton/Загрузки/2.jpg" alt="Курорт" width="300" height="200">
+    <a href="https://bukovel.com/" target="_blank">Bukovel</a>
+    </div>
+    
+    <div>
+    <p>Популярна торгівельна площадка світу</p>
+    <img src="/home/anton/Загрузки/3.jpeg" alt="Продукти" width="300" height="200">
+    <a href="https://www.amazon.com/" target="_blank">Amazon</a>
+    </div>
+    
+    <div>
+    <p>Цікаві рецепти страв</p>
+    <img src="/home/anton/Загрузки/4.jpg" alt="Готовка" width="300" height="200">
+    <a href="https://www.allrecipes.com/" target="_blank">allrecipes</a>
+    </div>
+    
+    <div>
+    <p>Незвичайні книги</p>
+    <img src="/home/anton/Загрузки/5.jpg" alt="Книги" width="300" height="200">
+    <a href="https://www.gutenberg.org/" target="_blank">Gutenberg</a>
+    </div>
+    
+    <div>
+    <p>Новини світу</p>
+    <img src="/home/anton/Загрузки/6.jpg" alt="Новини" width="300" height="200">
+    <a href="https://www.bbc.com/" target="_blank">BBC</a>
+    </div>
+    
+    <div>
+    <p>Творчі роботи</p>
+    <img src="/home/anton/Загрузки/7.jpg" alt="Творчі роботи" width="300" height="200">
+    <a href="https://www.deviantart.com/" target="_blank">DeviantArt</a>
+    </div>
+    
+    <div>
+    <p>Найпопулярніша платформа для розміщення відео</p>
+    <img src="/home/anton/Загрузки/8.webp" alt="Відео" width="300" height="200">
+    <a href="https://www.youtube.com/?app=desktop&gl=UA&hl=uk" target="_blank">YouTube</a>
+    </div>
+    
+    <div>
+    <p>Неймовірні фотографії природи</p>
+    <img src="/home/anton/Загрузки/9.webp" alt="Природа" width="300" height="200">
+    <a href="https://www.nationalgeographic.com/" target="_blank">NationalGeographic</a>
+    </div>
+    
+    <div>
+    <p>Луцький коледж</p>
+    <img src="/home/anton/Загрузки/10.jpeg" alt="Коледж" width="300" height="200">
+    <a href="https://ktbp.lutsk.ua/ua" target="_blank">FKTBP</a>
+    </div>
+</body>
+</html>
